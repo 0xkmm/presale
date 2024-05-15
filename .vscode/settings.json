@@ -1,0 +1,8 @@
+{
+    "wake.compiler.solc.remappings": ["@openzeppelin/=lib/openzeppelin-contracts/", "forge-std=lib/forge-std/src", "@openzeppelin/contracts-upgradeable=lib/openzeppelin-contracts-upgradeable/contracts"],
+    "editor.formatOnSave": true,
+    "[solidity]": {
+    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "solidity.formatter": "forge",
+}
